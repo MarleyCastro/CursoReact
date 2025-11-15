@@ -1,0 +1,14 @@
+body {
+  padding: 50x;
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: #de2c2c;
+}
+
+p {
+  color: aliceblue;
+  background: #444;
+  padding: 20px;
+}
